@@ -10,7 +10,7 @@
 
 ## Git Stats
 
-[![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/LongefayGuinand-Mael)
+[![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=swift)](https://github.com/LongefayGuinand-Mael)
 
 ## Programming Languages 💻
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&langs_count=10&,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&langs_count=10&,Objective-C,html&layout=compact&theme=swift)](https://github.com/LongefayGuinand-Mael?tab=repositories)
 
 ### Programming skills
 
