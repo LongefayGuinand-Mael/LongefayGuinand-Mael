@@ -21,8 +21,7 @@
     <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael935&langs_count=10&,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&langs_count=10&,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
 
 ### Programming skills
 
