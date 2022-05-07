@@ -13,7 +13,7 @@ Here, you could find some of my school projects and other personal projects.
 -------------------------------------
 
 ### Table of Contents :
-1. [Current Projects](#current-projects)
+1. [Current and Past Projects](#projects)
 2. [Programming Languages](#programming-languages)
 3. [Contact Me](#contact)
 4. [Git Stats](#git-stats)
@@ -21,12 +21,15 @@ Here, you could find some of my school projects and other personal projects.
 -------------------------------------
 
 
-<a name="current-projects"></a>
-## Current projects :
+<a name="projects"></a>
+## Current and Past Projects :
 
-- Android and iOS phone application (Kotlin - Swift - Floater)
-- Chest Game (C)
+### Current Projects :
+- Android and iOS application for school administration and student associations (code currently in Kotlin + Swift but in future in Flutter)
+- Working on a small connected greenhouse (Embedded Systems with a microship PIC18F57 - code in VHDL) [coming soon on my GitHub]
 
+### Past/Finished Projects :
+- Chest Game (code in C) [coming soon on my GitHub]
 
 <a name="programming-languages"></a>
 ## Programming Languages :
@@ -51,7 +54,7 @@ Here, you could find some of my school projects and other personal projects.
 </p>
 
 
-## Currently learning
+## Currently Learning
 
 - Swift
 - Kotlin
