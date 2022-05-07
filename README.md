@@ -64,6 +64,13 @@
 <a name="contact"></a>
 ## Contact Me :
 
+<p align = "center">
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/mael.lngfy)
+</p>
+
 - [![Linkedin Badge](https://img.shields.io/badge/-LONGEFAY_Mael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
