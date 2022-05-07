@@ -35,26 +35,6 @@ Here, you could find some of my school projects and other personal projects.
 <a name="programming-languages"></a>
 ## Programming Languages :
 
-### OS I work on fluently 
-<p align='center'>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <!-- a rajouter Mac OS + Linux -->
-    <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
-</p>
-
-### Programming skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-1072EE?style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/VHDL-1072EE?style=for-the-badge&logo=VHDL&logoColor=white">
-<img src="https://img.shields.io/badge/VBA-1072EE?style=for-the-badge&logo=VBA&logoColor=white">
-  
-</p>
-
-
 ## Currently Learning
 
 - Swift
@@ -63,6 +43,23 @@ Here, you could find some of my school projects and other personal projects.
 - Python
 - VHDL
 - Java
+### Programming skills
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-1072EE?style=for-the-badge&logo=C++&logoColor=white">
+    <img src="https://img.shields.io/badge/VHDL-1072EE?style=for-the-badge&logo=VHDL&logoColor=white">
+    <img src="https://img.shields.io/badge/VBA-1072EE?style=for-the-badge&logo=VBA&logoColor=white">
+</p>
+
+### OS I work on fluently 
+<p align='center'>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <!-- a rajouter Mac OS + Linux -->
+    <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
+</p>
+
 
 
 <a name="contact"></a>
