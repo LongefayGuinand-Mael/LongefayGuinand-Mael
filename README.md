@@ -83,14 +83,6 @@ Here, you could find some of my school projects and other personal projects.
 
 ---------------------------------------------------------------------
 
-| <p> <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LongefayGuinand-Mael&theme=buefyy&hide_border=true" alt="Mael's github stats" /></a> </p> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-
--------------------------------------------------------------------
-
 
 
 
