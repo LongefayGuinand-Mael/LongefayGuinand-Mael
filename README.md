@@ -12,7 +12,7 @@ Here, you could find some of my school projects and other personal projects.
 
 -------------------------------------
 
-## Table of Contents :
+### Table of Contents :
 1. [Current Projects](#current-projects)
 2. [Programming Languages](#programming-languages)
 3. [Contact Me](#contact)
