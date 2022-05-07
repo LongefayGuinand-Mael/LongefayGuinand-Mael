@@ -69,7 +69,7 @@ Here, you could find some of my school projects and other personal projects.
 - Phone : +33 6 21 99 52 73
 
 
-<a name="git-statss"></a>
+<a name="git-stats"></a>
 ## Git Stats :
 
 | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=buefy&hide_border=true" /></a> |
