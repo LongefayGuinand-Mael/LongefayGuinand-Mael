@@ -64,11 +64,6 @@
 <a name="contact"></a>
 ## Contact Me :
 
-<p align = "center">
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.google.fr)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mael-longefay-guinand/)
-</p>
-
 - [![Linkedin Badge](https://img.shields.io/badge/-LONGEFAY_Mael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
@@ -76,6 +71,9 @@
 
 <a name="git-statss"></a>
 ## Git Stats :
+
+| <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=swift)](https://github.com/LongefayGuinand-Mael)
 
