@@ -29,7 +29,7 @@ Here, you could find some of my school projects and other personal projects.
 - Working on a small connected greenhouse (Embedded Systems with a microship PIC18F57 - code in VHDL) [coming soon on my GitHub]
 
 ### Past/Finished Projects :
-- Chest Game (code in C) [coming soon on my GitHub]
+- **January 2021** : Chest Game (code in C) [coming soon on my GitHub]
 
 <a name="programming-languages"></a>
 ## Programming Languages :
