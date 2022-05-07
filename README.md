@@ -5,7 +5,7 @@
 
 ## About Me
 
-- Hi, I am a french 🇫🇷 student in engineering school [ESME Sudria](https://www.esme.fr) and I am currently majoring in Embedded Systems.
+- Hi, I am a french 🇫🇷 student in engineering school [ESME Sudria](https://www.esme.fr) and I am currently [majoring in Embedded Systems](https://www.esme.fr/formation-ingenieur/ingenieur-innovation/#systmes-embarqus).
 - You can find some of my school projects and other personal projects.
 
 ## Git Stats
