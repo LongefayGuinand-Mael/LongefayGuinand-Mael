@@ -10,7 +10,7 @@
 
 ## Git Stats
 
-[![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Xelar935)
+[![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/LongefayGuinand-Mael)
 
 ## Programming Languages 💻
 
