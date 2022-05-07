@@ -26,11 +26,11 @@ Hi, I am a french student in Master 1 in the engineering school [ESME Sudria](ht
 Here, you could find some of my school projects and other personal projects.
 
 ### Current Projects :
-- Android and iOS application for school administration and student associations (code currently in Kotlin + Swift but in future in Flutter)
-- Working on a small connected greenhouse (Embedded Systems with a microship PIC18F57Q43 - code in C) [coming soon on my GitHub]
+- **Android and iOS application** for school administration and student associations (code currently in Kotlin + Swift but in future in Flutter)
+- Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C) [*coming soon on my GitHub*]
 
 ### Past/Finished Projects :
-- **January 2021** : Chest Game (code in C) [coming soon on my GitHub]
+- **January 2021** : Chest Game (code in C) [*coming soon on my GitHub*]
 
 <a name="programming-languages"></a>
 ## Programming Languages :
