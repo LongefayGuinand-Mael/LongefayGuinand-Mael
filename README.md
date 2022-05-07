@@ -1,16 +1,20 @@
-# Hello there 👋
+# Hello GitHub community, I'm Mael 👋
 
 <!-- Docs for Readme APi display -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+
 ## About Me
 
-- Hi, I am a french 🇫🇷 student in engineering school [ESME Sudria](https://www.esme.fr) and I am currently [majoring in Embedded Systems](https://www.esme.fr/formation-ingenieur/ingenieur-innovation/#systmes-embarqus).
-- You can find some of my school projects and other personal projects.
+- Hi, I am a french student in Master 1 in the engineering school [ESME Sudria](https://www.esme.fr) and I am currently [majoring in Embedded Systems](https://www.esme.fr/formation-ingenieur/ingenieur-innovation/#systmes-embarqus).
+- Here, you could find some of my school projects and other personal projects.
 
-## Git Stats
 
-[![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=swift)](https://github.com/LongefayGuinand-Mael)
+## Current projects 🔭
+
+- Android and iOS phone application (Kotlin - Swift - Floater)
+- Chest Game (C)
+
 
 ## Programming Languages 💻
 
@@ -45,16 +49,19 @@
 - VHDL
 - Java
 
-## Current projects 🔭
-
-- Android and iOS phone application (Kotlin - Swift - Floater)
-- Chest Game (C)
 
 ## How to reach me 📫
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LONGEFAY_Mael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
+
+
+## Git Stats
+
+[![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=swift)](https://github.com/LongefayGuinand-Mael)
+
+
 
 
 
