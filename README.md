@@ -72,7 +72,7 @@
 <a name="git-statss"></a>
 ## Git Stats :
 
-| <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=swift" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=swift" /></a> |
+| <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p align = "center">
