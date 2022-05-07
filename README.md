@@ -72,12 +72,11 @@
 <a name="git-statss"></a>
 ## Git Stats :
 
-| <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=swift&hide_border=true" /></a> |
+| <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 
 
