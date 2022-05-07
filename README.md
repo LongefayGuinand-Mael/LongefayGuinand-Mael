@@ -48,12 +48,12 @@
 
 ## Current projects 🔭
 
-- Chest Game (C)
 - Android and iOS phone application (Kotlin - Swift - Floater)
+- Chest Game (C)
 
 ## How to reach me 📫
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LONGEFAY'Mael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LONGEFAY Mael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
 
