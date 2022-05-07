@@ -1,4 +1,4 @@
-# Hello GitHub community, I'm Mael 👋
+# Hi GitHub Community, I'm Mael 👋
 
 <!-- Docs for Readme APi display -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -10,13 +10,26 @@
 - Here, you could find some of my school projects and other personal projects.
 
 
-## Current projects 🔭
+-------------------------------------
+
+## Table of Contents :
+1. [Current Projects](#current-projects)
+2. [Programming Languages](#programming-languages)
+3. [Contact Me](#contact)
+4. [Git Stats](#git-stats)
+
+-------------------------------------
+
+
+<a name="current-projects"></a>
+## Current projects :
 
 - Android and iOS phone application (Kotlin - Swift - Floater)
 - Chest Game (C)
 
 
-## Programming Languages 💻
+<a name="programming-languages"></a>
+## Programming Languages :
 
 ### OS I work on fluently 
 <p align='center'>
@@ -40,7 +53,7 @@
 </p>
 
 
-## Currently learning 🌱
+## Currently learning
 
 - Swift
 - Kotlin
@@ -50,14 +63,16 @@
 - Java
 
 
-## How to reach me 📫
+<a name="contact"></a>
+## Contact Me :
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LONGEFAY_Mael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
 
 
-## Git Stats
+<a name="git-statss"></a>
+## Git Stats :
 
 [![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=swift)](https://github.com/LongefayGuinand-Mael)
 
