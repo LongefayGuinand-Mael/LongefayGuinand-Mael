@@ -17,11 +17,12 @@
 ### OS I work on fluently 
 <p align='center'>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <!-- a rajouter Mac OS + Linux -->
     <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&langs_count=10&,Objective-C,html&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael,html&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
 
 ### Programming skills
 
