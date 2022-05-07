@@ -22,7 +22,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael,html&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael935&langs_count=10&,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
 
 ### Programming skills
 
