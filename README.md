@@ -32,6 +32,9 @@ Here, you could find some of my school projects and other personal projects.
 ### Past/Finished Projects :
 - **January 2021** : Chest Game (code in C) [*coming soon on my GitHub*]
 
+
+-------------------------------------
+
 <a name="programming-languages"></a>
 ## Programming Languages :
 
@@ -63,6 +66,7 @@ Here, you could find some of my school projects and other personal projects.
 </p>
 
 
+-------------------------------------
 
 <a name="contact"></a>
 ## Contact Me :
@@ -71,7 +75,8 @@ Here, you could find some of my school projects and other personal projects.
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
 
--------------------------------------------------------------------
+
+-------------------------------------
 
 <a name="git-stats"></a>
 ## Git Stats :
@@ -79,7 +84,7 @@ Here, you could find some of my school projects and other personal projects.
 | <a href="https://github.com/LongefayGuinand-Mael/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mael's github stats" /> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LongefayGuinand-Mael&theme=buefy&hide_border=true)](https://github.com/LongefayGuinand-Mael/)</a> | <a href="https://github.com/LongefayGuinand-Mael/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
----------------------------------------------------------------------
+-------------------------------------
 
 
 
