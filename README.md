@@ -45,7 +45,7 @@ Here, you could find some of my school projects and other personal projects.
 - Java
 ### Programming skills
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C++-1072EE?style=for-the-badge&logo=C++&logoColor=white">
@@ -54,7 +54,7 @@ Here, you could find some of my school projects and other personal projects.
 </p>
 
 ### OS I work on fluently 
-<p align='center'>
+<p align="left">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <!-- a rajouter Mac OS + Linux -->
     <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
