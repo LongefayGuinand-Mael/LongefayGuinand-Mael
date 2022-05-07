@@ -35,14 +35,16 @@ Here, you could find some of my school projects and other personal projects.
 <a name="programming-languages"></a>
 ## Programming Languages :
 
-## Currently Learning
+### Currently Learning
 
 - Swift
 - Kotlin
+- Flutter
 - C
-- Python
 - VHDL
+- Python
 - Java
+
 ### Programming skills
 
 <p align="left">
