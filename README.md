@@ -75,9 +75,12 @@
 | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mael's github stats" /></a> | <a href="https://github.com/LongefayGuinand-Mael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=swift)](https://github.com/LongefayGuinand-Mael)
+<p align = "center">
+    [![Mael GitHub stats](https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&count_private=true&theme=swift)](https://github.com/LongefayGuinand-Mael)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&langs_count=10&,Objective-C,html&layout=compact&theme=swift)](https://github.com/LongefayGuinand-Mael?tab=repositories)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&langs_count=10&,Objective-C,html&layout=compact&theme=swift)](https://github.com/LongefayGuinand-Mael?tab=repositories)
+
 
 
 
