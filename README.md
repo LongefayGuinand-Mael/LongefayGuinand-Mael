@@ -4,10 +4,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 
-## About Me
+### About Me
 
-- Hi, I am a french student in Master 1 in the engineering school [ESME Sudria](https://www.esme.fr) and I am currently [majoring in Embedded Systems](https://www.esme.fr/formation-ingenieur/ingenieur-innovation/#systmes-embarqus).
-- Here, you could find some of my school projects and other personal projects.
+Hi, I am a french student in Master 1 in the engineering school [ESME Sudria](https://www.esme.fr) and I am currently [majoring in Embedded Systems](https://www.esme.fr/formation-ingenieur/ingenieur-innovation/#systmes-embarqus).
+Here, you could find some of my school projects and other personal projects.
 
 
 -------------------------------------
