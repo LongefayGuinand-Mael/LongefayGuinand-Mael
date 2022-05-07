@@ -53,7 +53,6 @@
 ## How to reach me 📫
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LONGEFAY_Mael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
-- [![Mail Badge](https://img.shields.io/badge/-mael.longefay@live.com-blue?style=flat&logo=Mail&logoColor=white)](mael.longefay@live.com)
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
 
