@@ -21,7 +21,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xelar935&langs_count=10&,Objective-C,html&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongefayGuinand-Mael&langs_count=10&,Objective-C,html&theme=tokyonight)](https://github.com/LongefayGuinand-Mael?tab=repositories)
 
 ### Programming skills
 
