@@ -27,9 +27,9 @@ Here, you could find some of my school projects and other personal projects.
 
 ### Current Projects :
 - **Android, iOS and web application** for school administration and student associations (code currently in Kotlin + Swift but in future in Dart -> on Flutter)
-- Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C) [*coming soon on my GitHub*]
 
 ### Past/Finished Projects :
+- **June 2022** : Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C) [*coming soon on my GitHub*]
 - **January 2021** : Chest Game (code in C) [*coming soon on my GitHub*]
 
 
