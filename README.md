@@ -26,9 +26,10 @@ Hi, I am a french student in Master 1 in the engineering school [ESME Sudria](ht
 Here, you could find some of my school projects and other personal projects.
 
 ### Current Projects :
-- **Android, iOS and web application** for school administration, professors and student (code in Dart -> on Flutter)
+- Development of a **Underwater Vehicule** with embedded systems for research (research of components, creation of the hardware & software, PCB development, structural enginering) [*coming soon on my GitHub*]
 
 ### Past/Finished Projects :
+- **2020-2022** : Work on an **Android, iOS and web application** for school administration, professors and student called AllUni (code in Dart -> on Flutter)
 - **June 2022** : Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C) [*coming soon on my GitHub*]
 - **January 2021** : Chest Game (code in C) [*coming soon on my GitHub*]
 
@@ -40,8 +41,8 @@ Here, you could find some of my school projects and other personal projects.
 
 ### Currently Learning
 
-- Dart (Flutter App)
 - C
+- Dart (Flutter App)
 - VHDL
 - Swift
 - Kotlin
