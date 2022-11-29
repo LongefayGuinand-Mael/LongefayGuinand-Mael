@@ -21,6 +21,7 @@ Hi, I am a french student in Master 2 in the engineering school [ESME Sudria](ht
 
 
 <a name="projects"></a>
+
 ## Current and Past Projects :
 
 Here, you could find some of my school projects and other personal projects.
@@ -37,6 +38,7 @@ Here, you could find some of my school projects and other personal projects.
 -------------------------------------
 
 <a name="programming-languages"></a>
+
 ## Programming Languages :
 
 ### Currently Learning
@@ -70,6 +72,7 @@ Here, you could find some of my school projects and other personal projects.
 -------------------------------------
 
 <a name="contact"></a>
+
 ## Contact Me :
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
@@ -80,6 +83,7 @@ Here, you could find some of my school projects and other personal projects.
 -------------------------------------
 
 <a name="git-stats"></a>
+
 ## Git Stats :
 
 | <a href="https://github.com/LongefayGuinand-Mael/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LongefayGuinand-Mael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mael's github stats" /> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LongefayGuinand-Mael&theme=buefy&hide_border=true)](https://github.com/LongefayGuinand-Mael/)</a> |
