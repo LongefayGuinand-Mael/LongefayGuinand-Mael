@@ -76,7 +76,7 @@ Here, you could find some of my school projects and other personal projects.
 
 ## Contact Me :
 
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/) : /in/mael-longefay-guinand/
 - mael.longefay-guinand@esme.fr and mael.longefay@live.com
 - Phone : +33 6 21 99 52 73
 
