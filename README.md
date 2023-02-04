@@ -54,11 +54,11 @@ Here, you could find some of my school projects and other personal projects.
 ### Programming skills
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-1072EE?style=for-the-badge&logo=C++&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-1072EE?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/VHDL-1072EE?style=for-the-badge&logo=VHDL&logoColor=white">
-    <img src="https://img.shields.io/badge/VBA-1072EE?style=for-the-badge&logo=VBA&logoColor=white">
+    <img src="https://img.shields.io/badge/FPGA-1072EE?style=for-the-badge&logo=FPGA&logoColor=white">
 </p>
 
 ### OS I work on fluently 
