@@ -17,10 +17,10 @@ Hi, I am a french student in Master 2 in the engineering school [ESME Sudria](ht
 3. [Contact Me](#contact)
 4. [Git Stats](#git-stats)
 
+<a name="projects"></a>
 -------------------------------------
 
 
-<a name="projects"></a>
 
 ## Current and Past Projects :
 
@@ -35,9 +35,9 @@ Here, you could find some of my school projects and other personal projects.
 - **January 2021** : Chest Game (code in C) [*coming soon on my GitHub*]
 
 
+<a name="programming-languages"></a>
 -------------------------------------
 
-<a name="programming-languages"></a>
 
 ## Programming Languages :
 
@@ -70,9 +70,9 @@ Here, you could find some of my school projects and other personal projects.
 </p>
 
 
+<a name="contact"></a>
 -------------------------------------
 
-<a name="contact"></a>
 
 ## Contact Me :
 
@@ -81,9 +81,9 @@ Here, you could find some of my school projects and other personal projects.
 - Phone : +33 6 21 99 52 73
 
 
+<a name="git-stats"></a>
 -------------------------------------
 
-<a name="git-stats"></a>
 
 ## Git Stats :
 
