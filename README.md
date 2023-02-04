@@ -64,6 +64,8 @@ Here, you could find some of my school projects and other personal projects.
 ### OS I work on fluently 
 <p align="left">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Mac-9C9C9C?style=for-the-badge&logo=mac&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FF8C00?style=for-the-badge&logo=linux&logoColor=white">
     <!-- a rajouter Mac OS + Linux -->
     <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
 </p>
