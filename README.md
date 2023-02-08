@@ -30,17 +30,17 @@ Here, you could find some of my school projects and other personal projects.
 - Development of a **Underwater Vehicule** with embedded systems for research (research of components, creation of the hardware & software, PCB development, structural enginering) [*coming soon on my GitHub*]
 
 ### Past/Finished Projects :
-1. **<ins>November 2022 - January 2023</ins>**:
-Work on an **Android and iOS application** called GeoLearn for learning Geography things (code in Dart-Flutter)
+1. **<ins>November 2022 - January 2023</ins>**:   
+Work on an **Android and iOS application** called GeoLearn for learning Geography things (code in Dart-Flutter)   
 *[Repository named "Geo-Learn"]*
-2. **<ins>2020-2022</ins>**: 
-Work on an **Android, iOS and web application** called AllUni for school administration, professors and student (code in Dart-Flutter)
+2. **<ins>2020-2022</ins>**:   
+Work on an **Android, iOS and web application** called AllUni for school administration, professors and student (code in Dart-Flutter)   
 *[Repository named "AllUni" in [2.SE! Organisation](https://github.com/2-SE)]*
-3. **<ins>June 2022</ins>**: 
-Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C) 
+3. **<ins>June 2022</ins>**:   
+Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C)   
 *[coming soon on my GitHub]*
-4. **<ins>January 2021</ins>**: 
-Code a **Chest Game** (code in C) 
+4. **<ins>January 2021</ins>**:   
+Code a **Chest Game** (code in C)   
 *[coming soon on my GitHub]*
 
 
