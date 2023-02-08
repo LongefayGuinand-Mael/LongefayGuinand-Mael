@@ -30,9 +30,18 @@ Here, you could find some of my school projects and other personal projects.
 - Development of a **Underwater Vehicule** with embedded systems for research (research of components, creation of the hardware & software, PCB development, structural enginering) [*coming soon on my GitHub*]
 
 ### Past/Finished Projects :
-- **2020-2022** : Work on an **Android, iOS and web application** for school administration, professors and student called AllUni (code in Dart -> on Flutter)
-- **June 2022** : Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C) [*coming soon on my GitHub*]
-- **January 2021** : Chest Game (code in C) [*coming soon on my GitHub*]
+1. **<ins>November 2022 - January 2023</ins>**:
+Work on an **Android and iOS application** called GeoLearn for learning Geography things (code in Dart-Flutter)
+*[Repository named "Geo-Learn"]*
+2. **<ins>2020-2022</ins>**: 
+Work on an **Android, iOS and web application** called AllUni for school administration, professors and student (code in Dart-Flutter)
+*[Repository named "AllUni" in [2.SE! Organisation](https://github.com/2-SE)]*
+3. **<ins>June 2022</ins>**: 
+Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C) 
+*[coming soon on my GitHub]*
+4. **<ins>January 2021</ins>**: 
+Code a **Chest Game** (code in C) 
+*[coming soon on my GitHub]*
 
 
 <a name="programming-languages"></a>
@@ -44,19 +53,21 @@ Here, you could find some of my school projects and other personal projects.
 ### Currently Learning
 
 - C
-- Dart (Flutter App)
+- C++
 - VHDL
+- FPGA
+- Python
+- Dart-Flutter
+- Java
 - Swift
 - Kotlin
-- Python
-- Java
 
 ### Programming skills
 
 <p align="left">
     <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-1072EE?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/VHDL-1072EE?style=for-the-badge&logo=VHDL&logoColor=white">
     <img src="https://img.shields.io/badge/FPGA-1072EE?style=for-the-badge&logo=FPGA&logoColor=white">
 </p>
@@ -76,9 +87,9 @@ Here, you could find some of my school projects and other personal projects.
 
 ## Contact Me :
 
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
-- mael.longefay@live.com and mael.longefay-guinand@esme.fr
-- Phone : +33 6 21 99 52 73
+- <ins>LinkedIn:</ins> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
+- <ins>Mail:</ins> mael.longefay@live.com and mael.longefay-guinand@esme.fr
+- <ins>Phone:</ins> +33 6 21 99 52 73
 
 
 <a name="git-stats"></a>
