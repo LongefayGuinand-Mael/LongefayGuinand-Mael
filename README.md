@@ -4,7 +4,7 @@
     <h1 align="center">✩ &emsp;Hi GitHub Community, I'm Mael &emsp; ✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;-+Have+a+look+around+-;😊&font=Fira%20Code&color=%FFEB5454&center=true&width=280&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;-+Have+a+look+around+-;+😊+&font=Fira%20Code&color=%FFEB5454&center=true&width=280&height=60">
 </p>
 <br>
 
