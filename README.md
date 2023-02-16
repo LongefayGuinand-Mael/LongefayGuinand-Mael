@@ -1,13 +1,21 @@
-# Hi GitHub Community, I'm Mael 👋
+
+<br>
+<p align="center">
+    <h1 align="center">✩ &emsp;Hi GitHub Community, I'm Mael &emsp; ✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;-+Have+a+look+around+-;😊&font=Fira%20Code&color=%FFEB5454&center=true&width=280&height=60">
+</p>
+<br>
+
+<!-- # Hi GitHub Community, I'm Mael 👋 -->
 
 <!-- Docs for Readme APi display -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-
 ### About Me
 
 Hi, I am a french student in Master 2 in the engineering school [ESME Sudria](https://www.esme.fr) and I am currently [majoring in Embedded Systems](https://www.esme.fr/formation-ingenieur/ingenieur-innovation/#systmes-embarqus).
-
 
 -------------------------------------
 
