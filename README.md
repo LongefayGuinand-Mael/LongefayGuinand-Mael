@@ -35,21 +35,23 @@ Hi, I am a french student in Master 2 in the engineering school [ESME Sudria](ht
 Here, you could find some of my school projects and other personal projects.
 
 ### Current Projects :
-- Development of a **Unmanned Underwater Vehicle** with embedded systems for research (research of components, creation of the hardware & software, PCB development, structural enginering) [*coming soon on my GitHub*]
+- Work at Thales Numeric Services (France - Toulouse)
+- Work on Luthier Hardware
 
 ### Past/Finished Projects :
-1. **<ins>November 2022 - January 2023</ins>**:   
+1. **<ins>October 2022 - March 2023</ins>**:   
+Development of a **Unmanned Underwater Vehicle (named : SUB-Explorer)** with embedded systems for research (research of components, creation of the hardware & software, PCB development, structural enginering)   
+*[Repository named "[SUB-Explorer_UnmannedUnderwaterVehicle](https://github.com/LongefayGuinand-Mael/SUB-Explorer_UnmannedUnderwaterVehicle)"]*
+2. **<ins>November 2022 - January 2023</ins>**:   
 Work on an **Android and iOS application** called GeoLearn for learning Geography things (code in Dart-Flutter)   
-*[Repository named "Geo-Learn"]*
-2. **<ins>2020-2022</ins>**:   
+*[Repository named "[Geo-Learn](https://github.com/LongefayGuinand-Mael/Geo-Learn)"]*
+3. **<ins>2020-2022</ins>**:   
 Work on an **Android, iOS and web application** called AllUni for school administration, professors and student (code in Dart-Flutter)   
-*[Repository named "AllUni" in [2.SE! Organisation](https://github.com/2-SE)]*
-3. **<ins>June 2022</ins>**:   
+*[Repository named "[AllUni](https://github.com/2-SE/AllUni)" in [2.SE! Organisation](https://github.com/2-SE)]*
+4. **<ins>June 2022</ins>**:   
 Working on a small **connected greenhouse** (Embedded Systems with a microship PIC18F57Q43 - code in C)   
-*[coming soon on my GitHub]*
-4. **<ins>January 2021</ins>**:   
-Code a **Chest Game** (code in C)   
-*[coming soon on my GitHub]*
+5. **<ins>January 2021</ins>**:   
+Code a **Chest Game** (code in C)  
 
 
 <a name="programming-languages"></a>
