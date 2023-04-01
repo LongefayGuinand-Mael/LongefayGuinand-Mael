@@ -97,7 +97,7 @@ Code a **Chest Game** (code in C)
 
 ## Contact Me :
 
-- <ins>LinkedIn:</ins> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
+- [![Linkedin Badge](https://img.shields.io/badge/LONGEFAY_GUINAND_Mael-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
 - <ins>Mail:</ins> mael.longefay@live.com and mael.longefay-guinand@esme.fr
 - <ins>Phone:</ins> +33 6 21 99 52 73
 
