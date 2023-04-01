@@ -35,7 +35,7 @@ Hi, I am a french student in Master 2 in the engineering school [ESME Sudria](ht
 Here, you could find some of my school projects and other personal projects.
 
 ### Current Projects :
-- Development of a **Underwater Vehicule** with embedded systems for research (research of components, creation of the hardware & software, PCB development, structural enginering) [*coming soon on my GitHub*]
+- Development of a **Unmanned Underwater Vehicle** with embedded systems for research (research of components, creation of the hardware & software, PCB development, structural enginering) [*coming soon on my GitHub*]
 
 ### Past/Finished Projects :
 1. **<ins>November 2022 - January 2023</ins>**:   
