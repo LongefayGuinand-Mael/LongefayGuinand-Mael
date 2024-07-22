@@ -15,7 +15,7 @@
 
 ### About Me
 
-Hi, I am a french student in Master 2 in the engineering school [ESME Sudria](https://www.esme.fr) and I am currently [majoring in Embedded Systems](https://www.esme.fr/formation-ingenieur/ingenieur-innovation/#systmes-embarqus).
+Hi, I am a french engineer graduated in 2023 in the engineering school [ESME Sudria](https://www.esme.fr) and I am currently FMS Test Engineer at Capgemini for Airbus aircrafts.
 
 -------------------------------------
 
