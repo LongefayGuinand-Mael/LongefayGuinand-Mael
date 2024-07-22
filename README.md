@@ -35,8 +35,8 @@ Hi, I am a french student in Master 2 in the engineering school [ESME Sudria](ht
 Here, you could find some of my school projects and other personal projects.
 
 ### Current Projects :
-- Work at Thales Numeric Services (France - Toulouse)
-- Work on Luthier Hardware
+- Work at Capgemini France as Flight Management Systems Test Engineer
+- Additionally work on a Flutter Application
 
 ### Past/Finished Projects :
 1. **<ins>October 2022 - March 2023</ins>**:   
@@ -62,12 +62,12 @@ Code a **Chest Game** (code in C)
 
 ### Currently Learning
 
+- Dart-Flutter
 - C
 - C++
 - VHDL
 - FPGA
 - Python
-- Dart-Flutter
 - Java
 - Swift
 - Kotlin
@@ -98,7 +98,7 @@ Code a **Chest Game** (code in C)
 ## Contact Me :
 
 - [![Linkedin Badge](https://img.shields.io/badge/LONGEFAY_Mael-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-longefay-guinand/)
-- <ins>Mail:</ins> mael.longefay@live.com and mael.longefay-guinand@esme.fr
+- <ins>Mail:</ins> pro@mlongefay.com
 - <ins>Phone:</ins> +33 6 21 99 52 73
 
 
